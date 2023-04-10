@@ -1,0 +1,8 @@
+{
+    "elements": {
+        "c:foreach": {}
+    },
+    "attributes": {
+        "items": {}
+    }
+}
